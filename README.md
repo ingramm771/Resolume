@@ -210,4 +210,4 @@ Resolume is offered as a complete free version, providing all features and updat
 Start your journey in video mixing today with **Resolume**! Download now and unleash your creativity!
 
 ---
-**Last updated:** 2026-10-16 19:17:57 UTC
+**Last updated:** 2026-10-16 22:31:10 UTC
